@@ -8,3 +8,7 @@ Uses:
  
 The program is hardcoded to use Storkey learning (because it worked best in my tests), but code for the Hebb rule is also there. General pseudo-inverse learning rule code is also present, but not functional in practise yet.
 An option to pick the size of the NN is also there.
+
+## Example:
+<img src="./readme_app.jpg" alt="app screenshot"></img>
+This Hopfield NN is used to learn and recognise 2D patterns (characters mostly).
